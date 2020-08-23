@@ -23,12 +23,10 @@ repository: ShawnTeoh/matjek
 paginate: 5
 
 # MatJek specific configurations
-github_profile: "https://github.com/ShawnTeoh"
-user: "John Doe"
-user_email: "john@doe.com"
-contact_url: "https://goo.gl/tVljbV"
-google_tracking_id: "UA-96359860-1"
-google_site_verification: "UA-96359860-1"
+github_profile: "https://github.com/liewkaitsan"
+user: "Kaitsan"
+user_email: "liewkaitsan@163.com"
+contact_url: "https://github.com/liewkaitsan"
 disqus_shortname: "matjek"
 
 # Build settings
