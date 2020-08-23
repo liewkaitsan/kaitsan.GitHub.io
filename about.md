@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "About Me"
-css: ["about.css", "animate.css", "morphext.css"]
-js: ["morphext.min.js", "about.js"]
+title: About
+permalink: /about/
 ---
-{% include about.html %}
+
+I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+
+email: agus[at]python.web.id
